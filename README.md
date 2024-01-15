@@ -18,8 +18,8 @@ Contact: A form to send me messages or inquiries.
 # Installation
 To run this portfolio locally, follow these steps:
 
-Clone the repository: git clone https://github.com/rishavchanda/rishav-chanda-portfolio.git
-Navigate to the project directory: cd rishav-chanda-portfolio
+Clone the repository: git clone https://github.com/FreshCodeJourney/MyPortFolio.git
+Navigate to the project directory: cd mangesh-ingle-portfolio
 Install the dependencies: npm install
 Start the development server: npm start
 Open your browser and visit: http://localhost:3000
